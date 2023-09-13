@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-mernqq-dev-210347-authRole",
+      "UnauthRoleArn": "arn:aws:iam::848470687587:role/amplify-mernqq-dev-210347-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::848470687587:role/amplify-mernqq-dev-210347-authRole",
+      "Region": "ap-southeast-1",
+      "DeploymentBucketName": "amplify-mernqq-dev-210347-deployment",
+      "UnauthRoleName": "amplify-mernqq-dev-210347-unauthRole",
+      "StackName": "amplify-mernqq-dev-210347",
+      "StackId": "arn:aws:cloudformation:ap-southeast-1:848470687587:stack/amplify-mernqq-dev-210347/fa5f06a0-5235-11ee-bf2c-0ad387425108",
+      "AmplifyAppId": "d2i3h9sdjivjun"
+    },
+    "categories": {
+      "auth": {
+        "mernqq91deff03": {}
+      }
+    }
+  }
+}
